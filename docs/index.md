@@ -1,2 +1,1 @@
 # Inicio
-## Que es wavynode?
