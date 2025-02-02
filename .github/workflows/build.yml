@@ -34,9 +34,7 @@ jobs:
         run: mkdocs build
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v2
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site # The directory where MkDocs builds the site
-          force_orphan: true # Clean the gh-pages branch before each deployment (optional, but recommended for first deployment)
-          cname: docs.wavynode.com 
