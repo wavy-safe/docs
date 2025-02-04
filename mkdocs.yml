@@ -3,6 +3,8 @@ site_url: https://wavynode.com
 repo_url: https://github.com/WavyNode
 theme: 
   name: material
+  favicon: img/favicon.ico
+  logo: img/wavyNode.png
   locale: es
   language: es
   palette: 
