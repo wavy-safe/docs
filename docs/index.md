@@ -5,12 +5,12 @@ Nuestra solución identifica transacciones y se alinea con marcos regulatorios e
 
 Esto mejora el cumplimiento y la gestión de riesgos para nuestros clientes en toda la región.
 
-## Regulatory frameworks available 
-México 🇲🇽
+## Legislaciones disponibles
+### México 🇲🇽
 
 * Ley Fintech
 * Reglas del Sistema de Pagos Electrónicos Bancarios (SPEI)
 * Ley Federal para la prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita (LFPIORPI)
 
-## Stage 
+## Etapa 
 MVP 
