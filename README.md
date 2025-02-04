@@ -1,4 +1,5 @@
 # Documentation | Wavy Node
+
 ## Overview 
 We are building an API for electronic payment providers and cryptocurrency exchanges in Latin America. Our API monitors, analyzes, and detects transactions in real time to prevent fraud and money laundering, addressing a region with the 2nd highest cryptocurrency growth YoY.
 
@@ -14,8 +15,6 @@ México 🇲🇽
 
 ## Stage 
 MVP 
-
-- Made using mkdocs
 
 ## Install dependencies
 ```bash
