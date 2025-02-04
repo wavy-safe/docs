@@ -7,10 +7,10 @@ Our solution identifies transactions and aligns with tax and regulatory framewor
 This improves compliance and risk management for our clients across the region.
 
 ## Regulatory frameworks available 
-México 🇲🇽
-  | Fintech Law
-  | Interbank Electronic Payments System (SPEI) Rules
-  | Federal Law for the Prevention and Identification of Operations with Resources of Illicit Proceeds (LFPIORPI)
+México 🇲🇽:
+  - Fintech Law
+  - Interbank Electronic Payments System (SPEI) Rules
+  - Federal Law for the Prevention and Identification of Operations with Resources of Illicit Proceeds (LFPIORPI)
 
 ## Stage 
 MVP 
