@@ -3,7 +3,7 @@ Wavy Node ofrece la posibilidad de alertar acerca de actividades irregulares o n
 
 ## Quickstart
 1. Configura la url de tu webhook en el [dashboard de Wavy Node](https://wavynode.com/dashboard).
-2. Crea un servidor web que en esa url que escuche las notificaciones de nuestro servicio de notificaciones.
+2. Crea un servidor web que escuche, en esa url, las notificaciones de nuestro servicio de notificaciones.
 3. Responder con un status code `200` para marcar esa notificación como entregada. 
 
 ## Diagrama de notificaciones
