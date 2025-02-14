@@ -7,6 +7,8 @@ theme:
   logo: img/wavyNode.png
   locale: es
   language: es
+  features:
+    - content.code.copy
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -26,3 +28,4 @@ markdown_extensions:
   - pymdownx.superfences
   - admonition
   - pymdownx.details
+  - admonition
