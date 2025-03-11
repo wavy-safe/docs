@@ -13,39 +13,37 @@ Wavy Node ofrece la posibilidad de alertar acerca de actividades irregulares o n
 ## Payload
 ```json 
 {
+    "id": 1
     "txHash": "some-tx-hash",
     "chainId": 42161,
     "address": {
+        "id": 543,
         "address": "0xyour-address-involved",
         "description": "Your address' description"
     },
-    "inflictedLaws": {
-        "mexico": [
-            {
-                "name": "The name of the law inflicted",
-                "risk": "warn",
-                "description": "Description of the law",
-                "source": "Source of the law"
-            },
-            {
-                ...
-            }
-        ]
-    }
+    "inflictedLaws": [
+        {
+            "country": "mexico",
+            "name": "The name of the law inflicted",
+            "description": "Description of the law",
+            "risk": "warn",
+            "source": "Source of the law",
+        },
+        {
+            ...
+        }
+    ]
 }
 ```
 
 ## Estructuras de datos
 ```typescript 
 // typescript
-interface InflictedLaws {
-    [country: string]: Law[] 
-}
-
-interface Law {
+interface ILaw {
+    country: string,
     name: string,
     description: string,
-    source?: string,
     risk: 'warn' | 'illegal',
+    source?: string,
 }
 ```
