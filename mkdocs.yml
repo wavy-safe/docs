@@ -1,6 +1,6 @@
 site_name: Wavy Node
 site_url: https://wavynode.com
-repo_url: https://github.com/WavyNode
+repo_url: https://github.com/wavy-safe
 theme: 
   name: material
   favicon: img/favicon.ico
