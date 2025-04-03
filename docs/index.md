@@ -1,20 +1,23 @@
 ---
-title: Inicio 
+title: Home
 ---
 
 # Wavy Node
-Estamos desarrollando una API para proveedores de pagos electrónicos e intercambios de criptomonedas en América Latina. Nuestra API monitorea, analiza y detecta transacciones en tiempo real para prevenir fraudes y lavado de dinero, abordando una región con el segundo mayor crecimiento interanual de criptomonedas.
 
-Nuestra solución identifica transacciones y se alinea con marcos regulatorios e impositivos como el GAFI, la Regla de Viajes, la Ley Fintech de México y otras regulaciones locales. Mediante agentes de IA, generamos informes detallados sobre la actividad de los usuarios, realizamos verificaciones de antecedentes y brindamos puntajes de riesgo a través del aprendizaje automático, automatizando las investigaciones.
+We’re building an API for electronic payment providers and crypto exchanges across Latin America. Our API monitors, analyzes, and detects transactions in real time to help prevent fraud and money laundering — tackling a region with the second-highest year-over-year growth in crypto adoption.
 
-Esto mejora el cumplimiento y la gestión de riesgos para nuestros clientes en toda la región.
+Our solution identifies transactions and aligns with regulatory and tax frameworks like the FATF, the Travel Rule, Mexico’s Fintech Law, and other local regulations. Using AI agents, we generate detailed reports on user activity, run background checks, and deliver risk scores through machine learning — automating the investigation process.
 
-## Legislaciones disponibles
-### México 🇲🇽
+This improves compliance and risk management for our clients throughout the region.
 
-* Ley Fintech
-* Reglas del Sistema de Pagos Electrónicos Bancarios (SPEI)
-* Ley Federal para la prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita (LFPIORPI)
+## Available Regulations
 
-## Etapa 
-MVP 
+### Mexico 🇲🇽
+
+* Fintech Law  
+* Electronic Interbank Payment System (SPEI) Rules  
+* Federal Law for the Prevention and Identification of Transactions with Illicit Funds (LFPIORPI)
+
+## Stage
+
+MVP
