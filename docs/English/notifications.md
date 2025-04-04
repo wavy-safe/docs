@@ -11,7 +11,7 @@ Wavy Node lets you receive alerts about irregular activity or regulatory violati
 
 ## Sequence Diagram
 
-![[Notifications Diagram]](/img/notificationsDiagram.png)
+![[Notifications Diagram]](/img/notificationsDiagramEn.png)
 
 ## Payload
 ```json 
