@@ -22,6 +22,17 @@ Wavy Node ofrece la posibilidad de alertar acerca de actividades irregulares o n
         "address": "0xyour-address-involved",
         "description": "Your address' description"
     },
+    "amount": {
+        "token": 0.001,
+        "usd": 1.6323
+    },
+    "token": {
+        "address": null,
+        "decimals": 18,
+        "name": "ETH",
+        "symbol": "ETH",
+    },
+    "timestamp": "2025-04-15T00:03:01.000Z",
     "inflictedLaws": [
         {
             "country": "mexico",
