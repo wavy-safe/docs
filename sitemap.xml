@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wavynode.com/</loc>
-         <lastmod>2025-04-02</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://wavynode.com/notifications/</loc>
-         <lastmod>2025-04-02</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://wavynode.com/api/</loc>
-         <lastmod>2025-04-02</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://wavynode.com/api/v1/addresses/</loc>
-         <lastmod>2025-04-02</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://wavynode.com/api/v1/api-keys/</loc>
-         <lastmod>2025-04-02</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://wavynode.com/api/v1/chains/</loc>
-         <lastmod>2025-04-02</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://wavynode.com/api/v1/wallets/</loc>
-         <lastmod>2025-04-02</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
 </urlset>
