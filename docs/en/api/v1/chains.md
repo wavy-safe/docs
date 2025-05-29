@@ -1,4 +1,4 @@
-# Chains  
+# Chains.
 Provides information about the different chains supported by Wavy Node.
 
 ## All chains  
