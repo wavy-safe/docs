@@ -1,6 +1,6 @@
 # Documentation | Wavy Node
 
-## Install dependencie
+## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
