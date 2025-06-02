@@ -7,7 +7,7 @@ API key management through the API.
 
 !!! warning
 
-    This documentation describes the `keys` API. If you're looking for information on how to create an API key from the dashboard, read [Using the API](/api).
+    This documentation describes the `keys` API. If you're looking for information on how to create an API key from the dashboard, read [Using the API](/en/api).
 
 ## All keys  
 * **Description**: Retrieves all the user's API keys.  
