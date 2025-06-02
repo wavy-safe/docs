@@ -5,27 +5,56 @@ theme:
   name: material
   favicon: img/favicon.ico
   logo: img/wavyNode.png
-  locale: es
-  language: es
+  language: es 
   features:
     - content.code.copy
-  palette: 
-    # Palette toggle for light mode
+  palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
     - scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
-markdown_extensions: 
+        name: Cambiar a modo claro
+
+plugins:
+  - search
+  - i18n:
+      default_language: es
+      languages:
+        - locale: es
+          name: Español
+          default: true
+          build: true
+          nav:
+            - Inicio: index.es.md
+            - Notificaciones: notifications.es.md
+            - API:
+                - Uso de la API: api/index.es.md
+                - V1:
+                    - Addresses: api/v1/addresses.es.md
+                    - API keys: api/v1/api-keys.es.md
+                    - Chains: api/v1/chains.es.md
+                    - Wallets: api/v1/wallets.es.md
+        - locale: en
+          name: English
+          build: true
+          nav:
+            - Home: index.en.md
+            - Notifications: notifications.en.md
+            - API:
+                - Getting Started: api/index.en.md
+                - V1:
+                    - Addresses: api/v1/addresses.en.md
+                    - API keys: api/v1/api-keys.en.md
+                    - Chains: api/v1/chains.en.md
+                    - Wallets: api/v1/wallets.en.md
+
+markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
       use_pygments: true
   - pymdownx.superfences
-  - admonition
   - pymdownx.details
   - admonition
