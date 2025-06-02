@@ -1,31 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://wavynode.com/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <loc>https://wavynode.com/index.en/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
-         <loc>https://wavynode.com/notifications/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <loc>https://wavynode.com/index.es/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
-         <loc>https://wavynode.com/api/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <loc>https://wavynode.com/notifications.en/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
-         <loc>https://wavynode.com/api/v1/addresses/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <loc>https://wavynode.com/notifications.es/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
-         <loc>https://wavynode.com/api/v1/api-keys/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <loc>https://wavynode.com/api/index.en/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
-         <loc>https://wavynode.com/api/v1/chains/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <loc>https://wavynode.com/api/index.es/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
-         <loc>https://wavynode.com/api/v1/wallets/</loc>
-         <lastmod>2025-04-15</lastmod>
+         <loc>https://wavynode.com/api/v1/addresses.en/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://wavynode.com/api/v1/addresses.es/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://wavynode.com/api/v1/api-keys.en/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://wavynode.com/api/v1/api-keys.es/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://wavynode.com/api/v1/chains.en/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://wavynode.com/api/v1/chains.es/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://wavynode.com/api/v1/wallets.en/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://wavynode.com/api/v1/wallets.es/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
 </urlset>
