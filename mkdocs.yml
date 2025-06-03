@@ -22,7 +22,6 @@ theme:
 plugins:
   - search
   - i18n:
-      default_language: es
       languages:
         - locale: es
           name: Español
