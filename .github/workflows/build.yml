@@ -28,6 +28,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          pip install mkdocs-i18n==0.4.6
           # pip install mkdocs mkdocs-material # Add other dependencies as needed
 
       - name: Build MkDocs site
