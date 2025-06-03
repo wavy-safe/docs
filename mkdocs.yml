@@ -2,11 +2,11 @@ site_name: Wavy Node
 site_url: https://wavynode.com
 repo_url: https://github.com/wavy-safe
 
-theme: 
+theme:
   name: material
   favicon: img/favicon.ico
   logo: img/wavyNode.png
-  language: es 
+  language: es
   features:
     - content.code.copy
   palette:
