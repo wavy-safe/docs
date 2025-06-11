@@ -5,7 +5,7 @@ Wavy Node lets you receive alerts about irregular activity or regulatory violati
 ## Quickstart
 
 1. Set your webhook URL in the [Wavy Node dashboard](https://wavynode.com/dashboard).
-2. Add your relevant addresses using the dashboard or [the API](/api/v1/addresses).
+2. Add your relevant addresses using the dashboard or [the API](/en/api/v1/addresses).
 3. Create a web server that listens for notifications at that URL.
 4. Respond with a `200` status code to confirm the notification was successfully received.
 
